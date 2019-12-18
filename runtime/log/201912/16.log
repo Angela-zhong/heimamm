@@ -1,0 +1,4925 @@
+---------------------------------------------------------------
+[ 2019-12-16T09:27:29+08:00 ] 127.0.0.1 GET 127.0.0.1/heimamm/public/captcha?type=login
+[运行时间：1.716182s] [吞吐率：0.58req/s] [内存消耗：1,941.98kb] [文件加载：51]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'no-cors',
+  'referer' => 'http://192.168.17.90:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  'type' => 'login',
+)
+[ info ] [ RUN ] app\api\controller\Account->captcha[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-16T09:28:36+08:00 ] 127.0.0.1 GET 127.0.0.1/heimamm/public/captcha?type=login&1576459715587
+[运行时间：0.334844s] [吞吐率：2.99req/s] [内存消耗：1,942.27kb] [文件加载：51]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'no-cors',
+  'referer' => 'http://192.168.17.90:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  'type' => 'login',
+  '1576459715587' => '',
+)
+[ info ] [ RUN ] app\api\controller\Account->captcha[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-16T09:28:36+08:00 ] 127.0.0.1 GET 127.0.0.1/heimamm/public/captcha?type=login&1576459715919
+[运行时间：0.105809s] [吞吐率：9.45req/s] [内存消耗：1,942.26kb] [文件加载：51]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'no-cors',
+  'referer' => 'http://192.168.17.90:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  'type' => 'login',
+  '1576459715919' => '',
+)
+[ info ] [ RUN ] app\api\controller\Account->captcha[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-16T09:28:37+08:00 ] 127.0.0.1 GET 127.0.0.1/heimamm/public/captcha?type=login&1576459717240
+[运行时间：0.042251s] [吞吐率：23.67req/s] [内存消耗：1,942.29kb] [文件加载：51]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'no-cors',
+  'referer' => 'http://192.168.17.90:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  'type' => 'login',
+  '1576459717240' => '',
+)
+[ info ] [ RUN ] app\api\controller\Account->captcha[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-16T09:56:51+08:00 ] 127.0.0.1 GET 127.0.0.1/heimamm/public/captcha?type=login&1576461408159
+[运行时间：2.601693s] [吞吐率：0.38req/s] [内存消耗：1,942.23kb] [文件加载：51]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'no-cors',
+  'referer' => 'http://192.168.17.90:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  'type' => 'login',
+  '1576461408159' => '',
+)
+[ info ] [ RUN ] app\api\controller\Account->captcha[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-16T09:56:51+08:00 ] 127.0.0.1 GET 127.0.0.1/heimamm/public/captcha?type=login
+[运行时间：0.556999s] [吞吐率：1.80req/s] [内存消耗：1,941.98kb] [文件加载：51]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'no-cors',
+  'referer' => 'http://192.168.17.90:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  'type' => 'login',
+)
+[ info ] [ RUN ] app\api\controller\Account->captcha[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-16T09:57:07+08:00 ] 127.0.0.1 GET 127.0.0.1/heimamm/public/captcha?type=login&1576461426865
+[运行时间：0.133761s] [吞吐率：7.48req/s] [内存消耗：1,942.26kb] [文件加载：51]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'no-cors',
+  'referer' => 'http://192.168.17.90:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  'type' => 'login',
+  '1576461426865' => '',
+)
+[ info ] [ RUN ] app\api\controller\Account->captcha[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-16T09:57:07+08:00 ] 127.0.0.1 GET 127.0.0.1/heimamm/public/captcha?type=login&1576461427222
+[运行时间：0.037171s] [吞吐率：26.90req/s] [内存消耗：1,942.24kb] [文件加载：51]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'no-cors',
+  'referer' => 'http://192.168.17.90:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  'type' => 'login',
+  '1576461427222' => '',
+)
+[ info ] [ RUN ] app\api\controller\Account->captcha[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-16T09:57:07+08:00 ] 127.0.0.1 GET 127.0.0.1/heimamm/public/captcha?type=login&1576461427804
+[运行时间：0.042515s] [吞吐率：23.52req/s] [内存消耗：1,942.27kb] [文件加载：51]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'no-cors',
+  'referer' => 'http://192.168.17.90:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  'type' => 'login',
+  '1576461427804' => '',
+)
+[ info ] [ RUN ] app\api\controller\Account->captcha[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-16T09:57:08+08:00 ] 127.0.0.1 GET 127.0.0.1/heimamm/public/captcha?type=login&1576461428398
+[运行时间：0.036004s] [吞吐率：27.77req/s] [内存消耗：1,942.27kb] [文件加载：51]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'no-cors',
+  'referer' => 'http://192.168.17.90:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  'type' => 'login',
+  '1576461428398' => '',
+)
+[ info ] [ RUN ] app\api\controller\Account->captcha[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-16T09:57:08+08:00 ] 127.0.0.1 GET 127.0.0.1/heimamm/public/captcha?type=login&1576461428830
+[运行时间：0.036934s] [吞吐率：27.08req/s] [内存消耗：1,942.23kb] [文件加载：51]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'no-cors',
+  'referer' => 'http://192.168.17.90:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  'type' => 'login',
+  '1576461428830' => '',
+)
+[ info ] [ RUN ] app\api\controller\Account->captcha[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-16T09:57:09+08:00 ] 127.0.0.1 GET 127.0.0.1/heimamm/public/captcha?type=login&1576461429239
+[运行时间：0.033914s] [吞吐率：29.49req/s] [内存消耗：1,942.25kb] [文件加载：51]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'no-cors',
+  'referer' => 'http://192.168.17.90:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  'type' => 'login',
+  '1576461429239' => '',
+)
+[ info ] [ RUN ] app\api\controller\Account->captcha[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-16T09:57:09+08:00 ] 127.0.0.1 GET 127.0.0.1/heimamm/public/captcha?type=login&1576461429640
+[运行时间：0.058065s] [吞吐率：17.22req/s] [内存消耗：1,942.25kb] [文件加载：51]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'no-cors',
+  'referer' => 'http://192.168.17.90:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  'type' => 'login',
+  '1576461429640' => '',
+)
+[ info ] [ RUN ] app\api\controller\Account->captcha[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-16T09:57:10+08:00 ] 127.0.0.1 GET 127.0.0.1/heimamm/public/captcha?type=login&1576461430096
+[运行时间：0.032286s] [吞吐率：30.97req/s] [内存消耗：1,942.24kb] [文件加载：51]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'no-cors',
+  'referer' => 'http://192.168.17.90:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  'type' => 'login',
+  '1576461430096' => '',
+)
+[ info ] [ RUN ] app\api\controller\Account->captcha[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-16T15:21:00+08:00 ] 127.0.0.1 GET 127.0.0.1/heimamm/public/captcha?type=login
+[运行时间：1.802837s] [吞吐率：0.55req/s] [内存消耗：1,941.98kb] [文件加载：51]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'no-cors',
+  'referer' => 'http://192.168.17.90:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  'type' => 'login',
+)
+[ info ] [ RUN ] app\api\controller\Account->captcha[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-16T15:21:40+08:00 ] 127.0.0.1 GET 127.0.0.1/heimamm/public/captcha?type=login&1576480900671
+[运行时间：0.042372s] [吞吐率：23.60req/s] [内存消耗：1,942.26kb] [文件加载：51]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'no-cors',
+  'referer' => 'http://192.168.17.90:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  'type' => 'login',
+  '1576480900671' => '',
+)
+[ info ] [ RUN ] app\api\controller\Account->captcha[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-16T15:21:41+08:00 ] 127.0.0.1 GET 127.0.0.1/heimamm/public/captcha?type=login&1576480901008
+[运行时间：0.032227s] [吞吐率：31.03req/s] [内存消耗：1,942.27kb] [文件加载：51]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'no-cors',
+  'referer' => 'http://192.168.17.90:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  'type' => 'login',
+  '1576480901008' => '',
+)
+[ info ] [ RUN ] app\api\controller\Account->captcha[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-16T15:21:41+08:00 ] 127.0.0.1 GET 127.0.0.1/heimamm/public/captcha?type=login&1576480901490
+[运行时间：0.055609s] [吞吐率：17.98req/s] [内存消耗：1,942.23kb] [文件加载：51]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'no-cors',
+  'referer' => 'http://192.168.17.90:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  'type' => 'login',
+  '1576480901490' => '',
+)
+[ info ] [ RUN ] app\api\controller\Account->captcha[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-16T15:21:41+08:00 ] 127.0.0.1 GET 127.0.0.1/heimamm/public/captcha?type=login&1576480901889
+[运行时间：0.042884s] [吞吐率：23.32req/s] [内存消耗：1,942.27kb] [文件加载：51]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'no-cors',
+  'referer' => 'http://192.168.17.90:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  'type' => 'login',
+  '1576480901889' => '',
+)
+[ info ] [ RUN ] app\api\controller\Account->captcha[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-16T16:54:27+08:00 ] 127.0.0.1 GET 127.0.0.1/heimamm/public/captcha?type=login
+[运行时间：1.767670s] [吞吐率：0.57req/s] [内存消耗：1,942.00kb] [文件加载：51]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'no-cors',
+  'referer' => 'http://192.168.17.90:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  'type' => 'login',
+)
+[ info ] [ RUN ] app\api\controller\Account->captcha[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-16T17:05:07+08:00 ] 127.0.0.1 GET 127.0.0.1/heimamm/public/captcha?type=login
+[运行时间：0.346033s] [吞吐率：2.89req/s] [内存消耗：1,941.99kb] [文件加载：51]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'no-cors',
+  'referer' => 'http://192.168.17.90:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  'type' => 'login',
+)
+[ info ] [ RUN ] app\api\controller\Account->captcha[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-16T17:05:23+08:00 ] 127.0.0.1 GET 127.0.0.1/heimamm/public/captcha?type=login
+[运行时间：0.123936s] [吞吐率：8.07req/s] [内存消耗：1,941.98kb] [文件加载：51]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'no-cors',
+  'referer' => 'http://192.168.17.90:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  'type' => 'login',
+)
+[ info ] [ RUN ] app\api\controller\Account->captcha[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-16T17:09:27+08:00 ] 127.0.0.1 GET 127.0.0.1/heimamm/public/captcha?type=login
+[运行时间：0.877731s] [吞吐率：1.14req/s] [内存消耗：1,941.98kb] [文件加载：51]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'no-cors',
+  'referer' => 'http://192.168.17.90:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  'type' => 'login',
+)
+[ info ] [ RUN ] app\api\controller\Account->captcha[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-16T17:09:35+08:00 ] 127.0.0.1 GET 127.0.0.1/heimamm/public/captcha?type=login
+[运行时间：0.111333s] [吞吐率：8.98req/s] [内存消耗：1,941.98kb] [文件加载：51]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'no-cors',
+  'referer' => 'http://192.168.17.90:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  'type' => 'login',
+)
+[ info ] [ RUN ] app\api\controller\Account->captcha[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-16T17:10:44+08:00 ] 127.0.0.1 GET 127.0.0.1/heimamm/public/captcha?type=login
+[运行时间：0.489555s] [吞吐率：2.04req/s] [内存消耗：1,942.00kb] [文件加载：51]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'no-cors',
+  'referer' => 'http://192.168.17.90:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  'type' => 'login',
+)
+[ info ] [ RUN ] app\api\controller\Account->captcha[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-16T17:10:45+08:00 ] 127.0.0.1 GET 127.0.0.1/heimamm/public/captcha?type=login
+[运行时间：0.066859s] [吞吐率：14.96req/s] [内存消耗：1,941.96kb] [文件加载：51]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'no-cors',
+  'referer' => 'http://192.168.17.90:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  'type' => 'login',
+)
+[ info ] [ RUN ] app\api\controller\Account->captcha[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-16T17:11:16+08:00 ] 127.0.0.1 GET 127.0.0.1/heimamm/public/captcha?type=login
+[运行时间：0.126492s] [吞吐率：7.91req/s] [内存消耗：1,941.98kb] [文件加载：51]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'no-cors',
+  'referer' => 'http://192.168.17.90:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  'type' => 'login',
+)
+[ info ] [ RUN ] app\api\controller\Account->captcha[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-16T17:11:51+08:00 ] 127.0.0.1 GET 127.0.0.1/heimamm/public/captcha?type=login
+[运行时间：0.104019s] [吞吐率：9.61req/s] [内存消耗：1,941.97kb] [文件加载：51]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'no-cors',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  'type' => 'login',
+)
+[ info ] [ RUN ] app\api\controller\Account->captcha[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-16T17:12:08+08:00 ] 127.0.0.1 GET 127.0.0.1/heimamm/public/captcha?type=login&1576487527956
+[运行时间：0.092424s] [吞吐率：10.82req/s] [内存消耗：1,942.24kb] [文件加载：51]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'no-cors',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  'type' => 'login',
+  '1576487527956' => '',
+)
+[ info ] [ RUN ] app\api\controller\Account->captcha[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-16T17:12:15+08:00 ] 127.0.0.1 POST 127.0.0.1/heimamm/public/login&1838.8772816241399
+[运行时间：0.139121s] [吞吐率：7.19req/s] [内存消耗：1,970.48kb] [文件加载：53]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'login',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'content-length' => '59',
+  'accept' => 'application/json, text/plain, */*',
+  'origin' => 'http://localhost:8080',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'content-type' => 'application/json;charset=UTF-8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'cors',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+  '1838_8772816241399' => '',
+  'phone' => '18511111111',
+  'password' => '12345678',
+  'code' => '6314',
+)
+[ info ] [ RUN ] app\api\controller\Account->login[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-16T17:12:31+08:00 ] 127.0.0.1 GET 127.0.0.1/heimamm/public/captcha?type=login
+[运行时间：0.066947s] [吞吐率：14.94req/s] [内存消耗：1,941.98kb] [文件加载：51]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'no-cors',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  'type' => 'login',
+)
+[ info ] [ RUN ] app\api\controller\Account->captcha[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-16T17:12:44+08:00 ] 127.0.0.1 POST 127.0.0.1/heimamm/public/login&5275.3194342913275
+[运行时间：0.808147s] [吞吐率：1.24req/s] [内存消耗：3,255.91kb] [文件加载：66]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'login',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'content-length' => '59',
+  'accept' => 'application/json, text/plain, */*',
+  'origin' => 'http://localhost:8080',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'content-type' => 'application/json;charset=UTF-8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'cors',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  '5275_3194342913275' => '',
+  'phone' => '18511111111',
+  'password' => '12345678',
+  'code' => '9793',
+)
+[ info ] [ RUN ] app\api\controller\Account->login[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.111699s ] mysql:host=127.0.0.1;dbname=heimamm;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `heima_user` [ RunTime:0.099365s ]
+[ sql ] [ SQL ] SELECT * FROM `heima_user` WHERE  `phone` = '18511111111' LIMIT 1 [ RunTime:0.004330s ]
+---------------------------------------------------------------
+[ 2019-12-16T17:18:31+08:00 ] 127.0.0.1 GET 127.0.0.1/heimamm/public/captcha?type=login
+[运行时间：0.065492s] [吞吐率：15.27req/s] [内存消耗：1,942.05kb] [文件加载：51]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'no-cors',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'token=5df74a8c3dc94; PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  'type' => 'login',
+)
+[ info ] [ RUN ] app\api\controller\Account->captcha[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-16T17:34:49+08:00 ] 127.0.0.1 GET 127.0.0.1/heimamm/public/captcha?type=login
+[运行时间：1.157033s] [吞吐率：0.86req/s] [内存消耗：1,942.05kb] [文件加载：51]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'no-cors',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'token=5df74a8c3dc94; PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  'type' => 'login',
+)
+[ info ] [ RUN ] app\api\controller\Account->captcha[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-16T17:34:58+08:00 ] 127.0.0.1 POST 127.0.0.1/heimamm/public/login&6411.962244706445
+[运行时间：0.764068s] [吞吐率：1.31req/s] [内存消耗：3,256.00kb] [文件加载：66]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'login',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'content-length' => '59',
+  'accept' => 'application/json, text/plain, */*',
+  'origin' => 'http://localhost:8080',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'content-type' => 'application/json;charset=UTF-8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'cors',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'token=5df74a8c3dc94; PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  '6411_962244706445' => '',
+  'phone' => '18511111111',
+  'password' => '12345678',
+  'code' => '9991',
+)
+[ info ] [ RUN ] app\api\controller\Account->login[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.208862s ] mysql:host=127.0.0.1;dbname=heimamm;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `heima_user` [ RunTime:0.149174s ]
+[ sql ] [ SQL ] SELECT * FROM `heima_user` WHERE  `phone` = '18511111111' LIMIT 1 [ RunTime:0.028716s ]
+---------------------------------------------------------------
+[ 2019-12-16T18:17:40+08:00 ] 127.0.0.1 GET 127.0.0.1/heimamm/public/captcha?type=login
+[运行时间：1.510506s] [吞吐率：0.66req/s] [内存消耗：1,942.06kb] [文件加载：51]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'no-cors',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'token=5df74fc26bfde; PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  'type' => 'login',
+)
+[ info ] [ RUN ] app\api\controller\Account->captcha[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-16T18:22:53+08:00 ] 127.0.0.1 GET 127.0.0.1/heimamm/public/captcha?type=login
+[运行时间：0.877501s] [吞吐率：1.14req/s] [内存消耗：1,942.04kb] [文件加载：51]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'no-cors',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'token=5df74fc26bfde; PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  'type' => 'login',
+)
+[ info ] [ RUN ] app\api\controller\Account->captcha[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-16T18:26:44+08:00 ] 127.0.0.1 GET 127.0.0.1/heimamm/public/captcha?type=login
+[运行时间：0.121692s] [吞吐率：8.22req/s] [内存消耗：1,942.07kb] [文件加载：51]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'no-cors',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'token=5df74fc26bfde; PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  'type' => 'login',
+)
+[ info ] [ RUN ] app\api\controller\Account->captcha[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-16T18:27:44+08:00 ] 127.0.0.1 GET 127.0.0.1/heimamm/public/captcha?type=login
+[运行时间：0.522739s] [吞吐率：1.91req/s] [内存消耗：1,942.05kb] [文件加载：51]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'no-cors',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'token=5df74fc26bfde; PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  'type' => 'login',
+)
+[ info ] [ RUN ] app\api\controller\Account->captcha[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-16T18:29:50+08:00 ] 127.0.0.1 GET 127.0.0.1/heimamm/public/captcha?type=login
+[运行时间：0.069774s] [吞吐率：14.33req/s] [内存消耗：1,942.05kb] [文件加载：51]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'no-cors',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'token=5df74fc26bfde; PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  'type' => 'login',
+)
+[ info ] [ RUN ] app\api\controller\Account->captcha[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-16T18:30:06+08:00 ] 127.0.0.1 GET 127.0.0.1/heimamm/public/captcha?type=login
+[运行时间：0.041371s] [吞吐率：24.17req/s] [内存消耗：1,942.04kb] [文件加载：51]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'no-cors',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'token=5df74fc26bfde; PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  'type' => 'login',
+)
+[ info ] [ RUN ] app\api\controller\Account->captcha[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-16T19:55:01+08:00 ] 127.0.0.1 GET 127.0.0.1/heimamm/public/captcha?type=login
+[运行时间：1.385445s] [吞吐率：0.72req/s] [内存消耗：1,942.06kb] [文件加载：51]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'no-cors',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'token=5df74fc26bfde; PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  'type' => 'login',
+)
+[ info ] [ RUN ] app\api\controller\Account->captcha[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-16T20:27:13+08:00 ] 127.0.0.1 GET 127.0.0.1/heimamm/public/captcha?type=login
+[运行时间：1.288617s] [吞吐率：0.78req/s] [内存消耗：1,942.05kb] [文件加载：51]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'no-cors',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'token=5df74fc26bfde; PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  'type' => 'login',
+)
+[ info ] [ RUN ] app\api\controller\Account->captcha[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-16T20:34:36+08:00 ] 127.0.0.1 GET 127.0.0.1/heimamm/public/captcha?type=login
+[运行时间：0.356115s] [吞吐率：2.81req/s] [内存消耗：1,942.05kb] [文件加载：51]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'no-cors',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'token=5df74fc26bfde; PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  'type' => 'login',
+)
+[ info ] [ RUN ] app\api\controller\Account->captcha[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-16T20:39:50+08:00 ] 127.0.0.1 GET 127.0.0.1/heimamm/public/captcha?type=login
+[运行时间：2.541761s] [吞吐率：0.39req/s] [内存消耗：1,942.05kb] [文件加载：51]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'no-cors',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'token=5df74fc26bfde; PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  'type' => 'login',
+)
+[ info ] [ RUN ] app\api\controller\Account->captcha[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-16T20:42:36+08:00 ] 127.0.0.1 GET 127.0.0.1/heimamm/public/captcha?type=login
+[运行时间：0.955991s] [吞吐率：1.05req/s] [内存消耗：1,942.05kb] [文件加载：51]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'no-cors',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'token=5df74fc26bfde; PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  'type' => 'login',
+)
+[ info ] [ RUN ] app\api\controller\Account->captcha[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-16T20:42:53+08:00 ] 127.0.0.1 GET 127.0.0.1/heimamm/public/captcha?type=login
+[运行时间：0.036428s] [吞吐率：27.45req/s] [内存消耗：1,942.05kb] [文件加载：51]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'no-cors',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'token=5df74fc26bfde; PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  'type' => 'login',
+)
+[ info ] [ RUN ] app\api\controller\Account->captcha[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-16T20:42:53+08:00 ] 127.0.0.1 GET 127.0.0.1/heimamm/public/captcha?type=login
+[运行时间：0.046772s] [吞吐率：21.38req/s] [内存消耗：1,942.04kb] [文件加载：51]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'no-cors',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'token=5df74fc26bfde; PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  'type' => 'login',
+)
+[ info ] [ RUN ] app\api\controller\Account->captcha[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-16T20:48:43+08:00 ] 127.0.0.1 GET 127.0.0.1/heimamm/public/captcha?type=login
+[运行时间：0.544753s] [吞吐率：1.84req/s] [内存消耗：1,942.03kb] [文件加载：51]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'no-cors',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'token=5df74fc26bfde; PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  'type' => 'login',
+)
+[ info ] [ RUN ] app\api\controller\Account->captcha[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-16T20:51:11+08:00 ] 127.0.0.1 GET 127.0.0.1/heimamm/public/captcha?type=sendsms
+[运行时间：0.053635s] [吞吐率：18.64req/s] [内存消耗：1,942.49kb] [文件加载：51]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'no-cors',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'token=5df74fc26bfde; PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  'type' => 'sendsms',
+)
+[ info ] [ RUN ] app\api\controller\Account->captcha[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-16T20:51:44+08:00 ] 127.0.0.1 GET 127.0.0.1/heimamm/public/captcha?type=login
+[运行时间：0.104961s] [吞吐率：9.53req/s] [内存消耗：1,942.44kb] [文件加载：51]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'no-cors',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'token=5df74fc26bfde; PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  'type' => 'login',
+)
+[ info ] [ RUN ] app\api\controller\Account->captcha[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-16T20:51:46+08:00 ] 127.0.0.1 GET 127.0.0.1/heimamm/public/captcha?type=sendsms
+[运行时间：0.078016s] [吞吐率：12.82req/s] [内存消耗：1,942.46kb] [文件加载：51]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'no-cors',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'token=5df74fc26bfde; PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  'type' => 'sendsms',
+)
+[ info ] [ RUN ] app\api\controller\Account->captcha[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-16T20:53:57+08:00 ] 127.0.0.1 GET 127.0.0.1/heimamm/public/captcha?type=login
+[运行时间：0.545143s] [吞吐率：1.83req/s] [内存消耗：1,942.44kb] [文件加载：51]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'no-cors',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'token=5df74fc26bfde; PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  'type' => 'login',
+)
+[ info ] [ RUN ] app\api\controller\Account->captcha[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-16T20:53:58+08:00 ] 127.0.0.1 GET 127.0.0.1/heimamm/public/captcha?type=sendsms
+[运行时间：0.058275s] [吞吐率：17.16req/s] [内存消耗：1,942.43kb] [文件加载：51]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'no-cors',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'token=5df74fc26bfde; PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  'type' => 'sendsms',
+)
+[ info ] [ RUN ] app\api\controller\Account->captcha[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-16T20:54:00+08:00 ] 127.0.0.1 GET 127.0.0.1/heimamm/public/captcha?type=sendsms&1576500840099
+[运行时间：0.036082s] [吞吐率：27.71req/s] [内存消耗：1,942.71kb] [文件加载：51]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'no-cors',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'token=5df74fc26bfde; PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  'type' => 'sendsms',
+  '1576500840099' => '',
+)
+[ info ] [ RUN ] app\api\controller\Account->captcha[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-16T20:54:00+08:00 ] 127.0.0.1 GET 127.0.0.1/heimamm/public/captcha?type=sendsms&1576500840785
+[运行时间：0.031872s] [吞吐率：31.38req/s] [内存消耗：1,942.70kb] [文件加载：51]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'no-cors',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'token=5df74fc26bfde; PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  'type' => 'sendsms',
+  '1576500840785' => '',
+)
+[ info ] [ RUN ] app\api\controller\Account->captcha[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-16T20:54:07+08:00 ] 127.0.0.1 GET 127.0.0.1/heimamm/public/captcha?type=sendsms&1576500847367
+[运行时间：0.039895s] [吞吐率：25.07req/s] [内存消耗：1,942.69kb] [文件加载：51]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'no-cors',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'token=5df74fc26bfde; PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  'type' => 'sendsms',
+  '1576500847367' => '',
+)
+[ info ] [ RUN ] app\api\controller\Account->captcha[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-16T20:54:07+08:00 ] 127.0.0.1 GET 127.0.0.1/heimamm/public/captcha?type=sendsms&1576500847890
+[运行时间：0.031430s] [吞吐率：31.82req/s] [内存消耗：1,942.70kb] [文件加载：51]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'no-cors',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'token=5df74fc26bfde; PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  'type' => 'sendsms',
+  '1576500847890' => '',
+)
+[ info ] [ RUN ] app\api\controller\Account->captcha[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-16T20:54:08+08:00 ] 127.0.0.1 GET 127.0.0.1/heimamm/public/captcha?type=sendsms&1576500848418
+[运行时间：0.030626s] [吞吐率：32.65req/s] [内存消耗：1,942.71kb] [文件加载：51]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'no-cors',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'token=5df74fc26bfde; PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  'type' => 'sendsms',
+  '1576500848418' => '',
+)
+[ info ] [ RUN ] app\api\controller\Account->captcha[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-16T20:54:09+08:00 ] 127.0.0.1 GET 127.0.0.1/heimamm/public/captcha?type=sendsms&1576500849600
+[运行时间：0.030916s] [吞吐率：32.35req/s] [内存消耗：1,942.69kb] [文件加载：51]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'no-cors',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'token=5df74fc26bfde; PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  'type' => 'sendsms',
+  '1576500849600' => '',
+)
+[ info ] [ RUN ] app\api\controller\Account->captcha[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-16T20:56:29+08:00 ] 127.0.0.1 GET 127.0.0.1/heimamm/public/captcha?type=login
+[运行时间：0.101763s] [吞吐率：9.83req/s] [内存消耗：1,942.45kb] [文件加载：51]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'no-cors',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'token=5df74fc26bfde; PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  'type' => 'login',
+)
+[ info ] [ RUN ] app\api\controller\Account->captcha[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-16T20:56:31+08:00 ] 127.0.0.1 GET 127.0.0.1/heimamm/public/captcha?type=sendsms
+[运行时间：0.117300s] [吞吐率：8.53req/s] [内存消耗：1,942.48kb] [文件加载：51]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'no-cors',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'token=5df74fc26bfde; PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  'type' => 'sendsms',
+)
+[ info ] [ RUN ] app\api\controller\Account->captcha[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-16T20:59:15+08:00 ] 127.0.0.1 GET 127.0.0.1/heimamm/public/captcha?type=login
+[运行时间：0.669565s] [吞吐率：1.49req/s] [内存消耗：1,942.45kb] [文件加载：51]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'no-cors',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'token=5df74fc26bfde; PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  'type' => 'login',
+)
+[ info ] [ RUN ] app\api\controller\Account->captcha[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-16T20:59:15+08:00 ] 127.0.0.1 GET 127.0.0.1/heimamm/public/captcha?type=sendsms
+[运行时间：0.054506s] [吞吐率：18.35req/s] [内存消耗：1,942.43kb] [文件加载：51]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'no-cors',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'token=5df74fc26bfde; PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  'type' => 'sendsms',
+)
+[ info ] [ RUN ] app\api\controller\Account->captcha[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-16T21:08:04+08:00 ] 127.0.0.1 GET 127.0.0.1/heimamm/public/captcha?type=login
+[运行时间：0.480787s] [吞吐率：2.08req/s] [内存消耗：1,942.48kb] [文件加载：51]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'no-cors',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'token=5df74fc26bfde; PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  'type' => 'login',
+)
+[ info ] [ RUN ] app\api\controller\Account->captcha[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-16T21:08:22+08:00 ] 127.0.0.1 GET 127.0.0.1/heimamm/public/captcha?type=login
+[运行时间：0.048449s] [吞吐率：20.64req/s] [内存消耗：1,942.43kb] [文件加载：51]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'no-cors',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'token=5df74fc26bfde; PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  'type' => 'login',
+)
+[ info ] [ RUN ] app\api\controller\Account->captcha[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-16T21:08:23+08:00 ] 127.0.0.1 GET 127.0.0.1/heimamm/public/captcha?type=sendsms
+[运行时间：0.046193s] [吞吐率：21.65req/s] [内存消耗：1,942.45kb] [文件加载：51]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'no-cors',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'token=5df74fc26bfde; PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  'type' => 'sendsms',
+)
+[ info ] [ RUN ] app\api\controller\Account->captcha[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-16T21:11:03+08:00 ] 127.0.0.1 GET 127.0.0.1/heimamm/public/captcha?type=login
+[运行时间：0.069443s] [吞吐率：14.40req/s] [内存消耗：1,942.47kb] [文件加载：51]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'no-cors',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'token=5df74fc26bfde; PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  'type' => 'login',
+)
+[ info ] [ RUN ] app\api\controller\Account->captcha[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-16T21:11:04+08:00 ] 127.0.0.1 GET 127.0.0.1/heimamm/public/captcha?type=sendsms
+[运行时间：0.047223s] [吞吐率：21.18req/s] [内存消耗：1,942.43kb] [文件加载：51]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'no-cors',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'token=5df74fc26bfde; PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  'type' => 'sendsms',
+)
+[ info ] [ RUN ] app\api\controller\Account->captcha[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-16T21:11:37+08:00 ] 127.0.0.1 GET 127.0.0.1/heimamm/public/captcha?type=login
+[运行时间：0.056431s] [吞吐率：17.72req/s] [内存消耗：1,942.46kb] [文件加载：51]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'no-cors',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'token=5df74fc26bfde; PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  'type' => 'login',
+)
+[ info ] [ RUN ] app\api\controller\Account->captcha[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-16T21:11:39+08:00 ] 127.0.0.1 GET 127.0.0.1/heimamm/public/captcha?type=sendsms
+[运行时间：0.043726s] [吞吐率：22.87req/s] [内存消耗：1,942.45kb] [文件加载：51]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'no-cors',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'token=5df74fc26bfde; PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  'type' => 'sendsms',
+)
+[ info ] [ RUN ] app\api\controller\Account->captcha[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-16T21:15:37+08:00 ] 127.0.0.1 GET 127.0.0.1/heimamm/public/captcha?type=login
+[运行时间：0.055365s] [吞吐率：18.06req/s] [内存消耗：1,942.45kb] [文件加载：51]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'no-cors',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'token=5df74fc26bfde; PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  'type' => 'login',
+)
+[ info ] [ RUN ] app\api\controller\Account->captcha[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-16T21:15:39+08:00 ] 127.0.0.1 GET 127.0.0.1/heimamm/public/captcha?type=sendsms
+[运行时间：0.100026s] [吞吐率：10.00req/s] [内存消耗：1,942.45kb] [文件加载：51]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'no-cors',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'token=5df74fc26bfde; PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  'type' => 'sendsms',
+)
+[ info ] [ RUN ] app\api\controller\Account->captcha[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-16T21:17:42+08:00 ] 127.0.0.1 GET 127.0.0.1/heimamm/public/captcha?type=login
+[运行时间：0.765947s] [吞吐率：1.31req/s] [内存消耗：1,942.45kb] [文件加载：51]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'no-cors',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'token=5df74fc26bfde; PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  'type' => 'login',
+)
+[ info ] [ RUN ] app\api\controller\Account->captcha[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-16T21:17:44+08:00 ] 127.0.0.1 GET 127.0.0.1/heimamm/public/captcha?type=sendsms
+[运行时间：0.037719s] [吞吐率：26.51req/s] [内存消耗：1,942.45kb] [文件加载：51]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'no-cors',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'token=5df74fc26bfde; PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  'type' => 'sendsms',
+)
+[ info ] [ RUN ] app\api\controller\Account->captcha[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-16T21:19:19+08:00 ] 127.0.0.1 GET 127.0.0.1/heimamm/public/captcha?type=sendsms&1576502359788
+[运行时间：0.035482s] [吞吐率：28.18req/s] [内存消耗：1,942.73kb] [文件加载：51]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'no-cors',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'token=5df74fc26bfde; PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  'type' => 'sendsms',
+  '1576502359788' => '',
+)
+[ info ] [ RUN ] app\api\controller\Account->captcha[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-16T21:20:17+08:00 ] 127.0.0.1 GET 127.0.0.1/heimamm/public/captcha?type=login
+[运行时间：0.166338s] [吞吐率：6.01req/s] [内存消耗：1,942.45kb] [文件加载：51]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'no-cors',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'token=5df74fc26bfde; PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  'type' => 'login',
+)
+[ info ] [ RUN ] app\api\controller\Account->captcha[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-16T21:20:18+08:00 ] 127.0.0.1 GET 127.0.0.1/heimamm/public/captcha?type=sendsms
+[运行时间：0.056164s] [吞吐率：17.80req/s] [内存消耗：1,942.44kb] [文件加载：51]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'no-cors',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'token=5df74fc26bfde; PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  'type' => 'sendsms',
+)
+[ info ] [ RUN ] app\api\controller\Account->captcha[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-16T21:21:55+08:00 ] 127.0.0.1 GET 127.0.0.1/heimamm/public/captcha?type=login
+[运行时间：0.512166s] [吞吐率：1.95req/s] [内存消耗：1,942.45kb] [文件加载：51]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'no-cors',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'token=5df74fc26bfde; PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  'type' => 'login',
+)
+[ info ] [ RUN ] app\api\controller\Account->captcha[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-16T21:21:56+08:00 ] 127.0.0.1 GET 127.0.0.1/heimamm/public/captcha?type=sendsms
+[运行时间：0.048406s] [吞吐率：20.66req/s] [内存消耗：1,942.49kb] [文件加载：51]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'no-cors',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'token=5df74fc26bfde; PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  'type' => 'sendsms',
+)
+[ info ] [ RUN ] app\api\controller\Account->captcha[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-16T21:22:15+08:00 ] 127.0.0.1 GET 127.0.0.1/heimamm/public/captcha?type=sendsms&1576502535710
+[运行时间：0.036657s] [吞吐率：27.28req/s] [内存消耗：1,942.73kb] [文件加载：51]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'no-cors',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'token=5df74fc26bfde; PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  'type' => 'sendsms',
+  '1576502535710' => '',
+)
+[ info ] [ RUN ] app\api\controller\Account->captcha[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-16T21:23:19+08:00 ] 127.0.0.1 GET 127.0.0.1/heimamm/public/captcha?type=login
+[运行时间：0.075850s] [吞吐率：13.18req/s] [内存消耗：1,942.45kb] [文件加载：51]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'no-cors',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'token=5df74fc26bfde; PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  'type' => 'login',
+)
+[ info ] [ RUN ] app\api\controller\Account->captcha[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-16T21:23:34+08:00 ] 127.0.0.1 GET 127.0.0.1/heimamm/public/captcha?type=sendsms
+[运行时间：0.047305s] [吞吐率：21.14req/s] [内存消耗：1,942.49kb] [文件加载：51]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'no-cors',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'token=5df74fc26bfde; PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  'type' => 'sendsms',
+)
+[ info ] [ RUN ] app\api\controller\Account->captcha[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-16T21:23:37+08:00 ] 127.0.0.1 GET 127.0.0.1/heimamm/public/captcha?type=login
+[运行时间：0.112920s] [吞吐率：8.86req/s] [内存消耗：1,942.45kb] [文件加载：51]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'no-cors',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'token=5df74fc26bfde; PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  'type' => 'login',
+)
+[ info ] [ RUN ] app\api\controller\Account->captcha[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-16T21:23:38+08:00 ] 127.0.0.1 GET 127.0.0.1/heimamm/public/captcha?type=sendsms
+[运行时间：0.049563s] [吞吐率：20.18req/s] [内存消耗：1,942.45kb] [文件加载：51]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'no-cors',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'token=5df74fc26bfde; PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  'type' => 'sendsms',
+)
+[ info ] [ RUN ] app\api\controller\Account->captcha[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-16T21:24:01+08:00 ] 127.0.0.1 GET 127.0.0.1/heimamm/public/captcha?type=sendsms&1576502641122
+[运行时间：0.545761s] [吞吐率：1.83req/s] [内存消耗：1,942.70kb] [文件加载：51]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'no-cors',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'token=5df74fc26bfde; PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  'type' => 'sendsms',
+  '1576502641122' => '',
+)
+[ info ] [ RUN ] app\api\controller\Account->captcha[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-16T21:24:01+08:00 ] 127.0.0.1 GET 127.0.0.1/heimamm/public/captcha?type=sendsms&1576502641773
+[运行时间：0.050710s] [吞吐率：19.72req/s] [内存消耗：1,942.70kb] [文件加载：51]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'no-cors',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'token=5df74fc26bfde; PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  'type' => 'sendsms',
+  '1576502641773' => '',
+)
+[ info ] [ RUN ] app\api\controller\Account->captcha[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-16T21:24:02+08:00 ] 127.0.0.1 GET 127.0.0.1/heimamm/public/captcha?type=sendsms&1576502642273
+[运行时间：0.030847s] [吞吐率：32.42req/s] [内存消耗：1,942.73kb] [文件加载：51]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'no-cors',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'token=5df74fc26bfde; PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  'type' => 'sendsms',
+  '1576502642273' => '',
+)
+[ info ] [ RUN ] app\api\controller\Account->captcha[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-16T21:24:03+08:00 ] 127.0.0.1 GET 127.0.0.1/heimamm/public/captcha?type=sendsms&1576502642945
+[运行时间：0.033401s] [吞吐率：29.94req/s] [内存消耗：1,942.73kb] [文件加载：51]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'no-cors',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'token=5df74fc26bfde; PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  'type' => 'sendsms',
+  '1576502642945' => '',
+)
+[ info ] [ RUN ] app\api\controller\Account->captcha[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-16T21:24:03+08:00 ] 127.0.0.1 GET 127.0.0.1/heimamm/public/captcha?type=sendsms&1576502643697
+[运行时间：0.036724s] [吞吐率：27.23req/s] [内存消耗：1,942.70kb] [文件加载：51]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'no-cors',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'token=5df74fc26bfde; PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  'type' => 'sendsms',
+  '1576502643697' => '',
+)
+[ info ] [ RUN ] app\api\controller\Account->captcha[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-16T21:24:04+08:00 ] 127.0.0.1 GET 127.0.0.1/heimamm/public/captcha?type=sendsms&1576502644473
+[运行时间：0.030518s] [吞吐率：32.77req/s] [内存消耗：1,942.73kb] [文件加载：51]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'no-cors',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'token=5df74fc26bfde; PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  'type' => 'sendsms',
+  '1576502644473' => '',
+)
+[ info ] [ RUN ] app\api\controller\Account->captcha[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-16T21:25:18+08:00 ] 127.0.0.1 GET 127.0.0.1/heimamm/public/captcha?type=sendsms&1576502718600
+[运行时间：0.035148s] [吞吐率：28.45req/s] [内存消耗：1,942.73kb] [文件加载：51]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'no-cors',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'token=5df74fc26bfde; PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  'type' => 'sendsms',
+  '1576502718600' => '',
+)
+[ info ] [ RUN ] app\api\controller\Account->captcha[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-16T21:25:20+08:00 ] 127.0.0.1 GET 127.0.0.1/heimamm/public/captcha?type=sendsms&1576502720304
+[运行时间：0.030851s] [吞吐率：32.41req/s] [内存消耗：1,942.70kb] [文件加载：51]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'no-cors',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'token=5df74fc26bfde; PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  'type' => 'sendsms',
+  '1576502720304' => '',
+)
+[ info ] [ RUN ] app\api\controller\Account->captcha[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-16T21:25:27+08:00 ] 127.0.0.1 POST 127.0.0.1/heimamm/public/sendsms
+[运行时间：0.855959s] [吞吐率：1.17req/s] [内存消耗：2,750.70kb] [文件加载：59]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'sendsms',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'content-length' => '37',
+  'accept' => 'application/json, text/plain, */*',
+  'origin' => 'http://localhost:8080',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'content-type' => 'application/json;charset=UTF-8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'cors',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'token=5df74fc26bfde; PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  'phone' => '18898988888',
+  'code' => '3743',
+)
+[ info ] [ RUN ] app\api\controller\Account->sendSms[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.222980s ] mysql:host=127.0.0.1;dbname=heimamm;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `heima_user` [ RunTime:0.247669s ]
+[ sql ] [ SQL ] SELECT * FROM `heima_user` WHERE  `phone` = '18898988888' LIMIT 1 [ RunTime:0.016913s ]
+---------------------------------------------------------------
+[ 2019-12-16T21:25:49+08:00 ] 127.0.0.1 POST 127.0.0.1/heimamm/public/sendsms
+[运行时间：0.031582s] [吞吐率：31.66req/s] [内存消耗：1,950.35kb] [文件加载：52]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'sendsms',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'content-length' => '37',
+  'accept' => 'application/json, text/plain, */*',
+  'origin' => 'http://localhost:8080',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'content-type' => 'application/json;charset=UTF-8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'cors',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'token=5df74fc26bfde; PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  'phone' => '18898988888',
+  'code' => '3743',
+)
+[ info ] [ RUN ] app\api\controller\Account->sendSms[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-16T21:25:59+08:00 ] 127.0.0.1 POST 127.0.0.1/heimamm/public/sendsms
+[运行时间：0.041558s] [吞吐率：24.06req/s] [内存消耗：1,950.35kb] [文件加载：52]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'sendsms',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'content-length' => '37',
+  'accept' => 'application/json, text/plain, */*',
+  'origin' => 'http://localhost:8080',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'content-type' => 'application/json;charset=UTF-8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'cors',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'token=5df74fc26bfde; PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  'phone' => '18898988888',
+  'code' => '3743',
+)
+[ info ] [ RUN ] app\api\controller\Account->sendSms[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-16T21:28:16+08:00 ] 127.0.0.1 GET 127.0.0.1/heimamm/public/captcha?type=login
+[运行时间：0.059535s] [吞吐率：16.80req/s] [内存消耗：1,942.05kb] [文件加载：51]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'no-cors',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'token=5df74fc26bfde; PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  'type' => 'login',
+)
+[ info ] [ RUN ] app\api\controller\Account->captcha[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-16T21:28:17+08:00 ] 127.0.0.1 GET 127.0.0.1/heimamm/public/captcha?type=sendsms
+[运行时间：0.055224s] [吞吐率：18.11req/s] [内存消耗：1,942.51kb] [文件加载：51]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'no-cors',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'token=5df74fc26bfde; PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  'type' => 'sendsms',
+)
+[ info ] [ RUN ] app\api\controller\Account->captcha[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-16T21:28:32+08:00 ] 127.0.0.1 POST 127.0.0.1/heimamm/public/sendsms
+[运行时间：0.083618s] [吞吐率：11.96req/s] [内存消耗：2,750.70kb] [文件加载：59]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'sendsms',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'content-length' => '37',
+  'accept' => 'application/json, text/plain, */*',
+  'origin' => 'http://localhost:8080',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'content-type' => 'application/json;charset=UTF-8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'cors',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'token=5df74fc26bfde; PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  'phone' => '18898283230',
+  'code' => '7851',
+)
+[ info ] [ RUN ] app\api\controller\Account->sendSms[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001009s ] mysql:host=127.0.0.1;dbname=heimamm;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `heima_user` [ RunTime:0.023581s ]
+[ sql ] [ SQL ] SELECT * FROM `heima_user` WHERE  `phone` = '18898283230' LIMIT 1 [ RunTime:0.000579s ]
+---------------------------------------------------------------
+[ 2019-12-16T21:31:24+08:00 ] 127.0.0.1 GET 127.0.0.1/heimamm/public/captcha?type=login
+[运行时间：0.578850s] [吞吐率：1.73req/s] [内存消耗：1,942.05kb] [文件加载：51]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'no-cors',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'token=5df74fc26bfde; PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  'type' => 'login',
+)
+[ info ] [ RUN ] app\api\controller\Account->captcha[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-16T21:31:25+08:00 ] 127.0.0.1 GET 127.0.0.1/heimamm/public/captcha?type=login
+[运行时间：0.074393s] [吞吐率：13.44req/s] [内存消耗：1,942.07kb] [文件加载：51]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'no-cors',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'token=5df74fc26bfde; PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  'type' => 'login',
+)
+[ info ] [ RUN ] app\api\controller\Account->captcha[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-16T21:31:26+08:00 ] 127.0.0.1 GET 127.0.0.1/heimamm/public/captcha?type=sendsms
+[运行时间：0.046882s] [吞吐率：21.33req/s] [内存消耗：1,942.48kb] [文件加载：51]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'no-cors',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'token=5df74fc26bfde; PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  'type' => 'sendsms',
+)
+[ info ] [ RUN ] app\api\controller\Account->captcha[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-16T21:31:47+08:00 ] 127.0.0.1 GET 127.0.0.1/heimamm/public/captcha?type=sendsms&1576503107492
+[运行时间：0.032695s] [吞吐率：30.59req/s] [内存消耗：1,942.75kb] [文件加载：51]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'no-cors',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'token=5df74fc26bfde; PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  'type' => 'sendsms',
+  '1576503107492' => '',
+)
+[ info ] [ RUN ] app\api\controller\Account->captcha[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-16T21:31:52+08:00 ] 127.0.0.1 POST 127.0.0.1/heimamm/public/sendsms
+[运行时间：0.579108s] [吞吐率：1.73req/s] [内存消耗：1,950.77kb] [文件加载：52]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'sendsms',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'content-length' => '37',
+  'accept' => 'application/json, text/plain, */*',
+  'origin' => 'http://localhost:8080',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'content-type' => 'application/json;charset=UTF-8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'cors',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'token=5df74fc26bfde; PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  'phone' => '18888888888',
+  'code' => '2668',
+)
+[ info ] [ RUN ] app\api\controller\Account->sendSms[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-16T21:32:00+08:00 ] 127.0.0.1 GET 127.0.0.1/heimamm/public/captcha?type=sendsms&1576503120763
+[运行时间：0.035137s] [吞吐率：28.46req/s] [内存消耗：1,942.70kb] [文件加载：51]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'no-cors',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'token=5df74fc26bfde; PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  'type' => 'sendsms',
+  '1576503120763' => '',
+)
+[ info ] [ RUN ] app\api\controller\Account->captcha[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-16T21:32:09+08:00 ] 127.0.0.1 POST 127.0.0.1/heimamm/public/sendsms
+[运行时间：0.476118s] [吞吐率：2.10req/s] [内存消耗：2,750.70kb] [文件加载：59]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'sendsms',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'content-length' => '37',
+  'accept' => 'application/json, text/plain, */*',
+  'origin' => 'http://localhost:8080',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'content-type' => 'application/json;charset=UTF-8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'cors',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'token=5df74fc26bfde; PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  'phone' => '18888888888',
+  'code' => '6687',
+)
+[ info ] [ RUN ] app\api\controller\Account->sendSms[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.142976s ] mysql:host=127.0.0.1;dbname=heimamm;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `heima_user` [ RunTime:0.127912s ]
+[ sql ] [ SQL ] SELECT * FROM `heima_user` WHERE  `phone` = '18888888888' LIMIT 1 [ RunTime:0.020109s ]
+---------------------------------------------------------------
+[ 2019-12-16T21:45:03+08:00 ] 127.0.0.1 GET 127.0.0.1/heimamm/public/captcha?type=login
+[运行时间：1.865947s] [吞吐率：0.54req/s] [内存消耗：1,942.05kb] [文件加载：51]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'no-cors',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'token=5df74fc26bfde; PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  'type' => 'login',
+)
+[ info ] [ RUN ] app\api\controller\Account->captcha[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-16T21:45:04+08:00 ] 127.0.0.1 GET 127.0.0.1/heimamm/public/captcha?type=sendsms
+[运行时间：0.109407s] [吞吐率：9.14req/s] [内存消耗：1,942.53kb] [文件加载：51]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'no-cors',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'token=5df74fc26bfde; PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  'type' => 'sendsms',
+)
+[ info ] [ RUN ] app\api\controller\Account->captcha[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-16T21:46:57+08:00 ] 127.0.0.1 GET 127.0.0.1/heimamm/public/captcha?type=login
+[运行时间：0.746531s] [吞吐率：1.34req/s] [内存消耗：1,942.43kb] [文件加载：51]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'no-cors',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'token=5df74fc26bfde; PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  'type' => 'login',
+)
+[ info ] [ RUN ] app\api\controller\Account->captcha[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-16T21:47:53+08:00 ] 127.0.0.1 GET 127.0.0.1/heimamm/public/captcha?type=login
+[运行时间：0.402932s] [吞吐率：2.48req/s] [内存消耗：1,942.44kb] [文件加载：51]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'no-cors',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'token=5df74fc26bfde; PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  'type' => 'login',
+)
+[ info ] [ RUN ] app\api\controller\Account->captcha[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-16T21:48:49+08:00 ] 127.0.0.1 GET 127.0.0.1/heimamm/public/captcha?type=login
+[运行时间：0.490136s] [吞吐率：2.04req/s] [内存消耗：1,942.45kb] [文件加载：51]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'no-cors',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'token=5df74fc26bfde; PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  'type' => 'login',
+)
+[ info ] [ RUN ] app\api\controller\Account->captcha[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-16T21:48:52+08:00 ] 127.0.0.1 GET 127.0.0.1/heimamm/public/captcha?type=sendsms
+[运行时间：0.545073s] [吞吐率：1.83req/s] [内存消耗：1,942.44kb] [文件加载：51]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'no-cors',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'token=5df74fc26bfde; PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  'type' => 'sendsms',
+)
+[ info ] [ RUN ] app\api\controller\Account->captcha[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-16T21:48:59+08:00 ] 127.0.0.1 POST 127.0.0.1/heimamm/public/uploads
+[运行时间：0.838499s] [吞吐率：1.19req/s] [内存消耗：1,954.96kb] [文件加载：52]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'uploads',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'content-length' => '291',
+  'origin' => 'http://localhost:8080',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'content-type' => 'multipart/form-data; boundary=----WebKitFormBoundaryDbSYvT3LIQQY3hA7',
+  'accept' => '*/*',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'cors',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\api\controller\Account->uploads[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-16T21:49:57+08:00 ] 127.0.0.1 GET 127.0.0.1/heimamm/public/captcha?type=login
+[运行时间：0.168458s] [吞吐率：5.94req/s] [内存消耗：1,942.51kb] [文件加载：51]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'no-cors',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'token=5df74fc26bfde; PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  'type' => 'login',
+)
+[ info ] [ RUN ] app\api\controller\Account->captcha[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-16T21:50:23+08:00 ] 127.0.0.1 GET 127.0.0.1/heimamm/public/captcha?type=sendsms
+[运行时间：0.069691s] [吞吐率：14.35req/s] [内存消耗：1,942.44kb] [文件加载：51]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'no-cors',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'token=5df74fc26bfde; PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  'type' => 'sendsms',
+)
+[ info ] [ RUN ] app\api\controller\Account->captcha[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-16T21:50:27+08:00 ] 127.0.0.1 POST 127.0.0.1/heimamm/public/uploads
+[运行时间：0.089916s] [吞吐率：11.12req/s] [内存消耗：1,954.96kb] [文件加载：52]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'uploads',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'content-length' => '291',
+  'origin' => 'http://localhost:8080',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'content-type' => 'multipart/form-data; boundary=----WebKitFormBoundaryqNA5A9CWAM70lZM2',
+  'accept' => '*/*',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'cors',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\api\controller\Account->uploads[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-16T21:50:54+08:00 ] 127.0.0.1 GET 127.0.0.1/heimamm/public/captcha?type=sendsms&1576504254151
+[运行时间：0.039268s] [吞吐率：25.47req/s] [内存消耗：1,942.70kb] [文件加载：51]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'no-cors',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'token=5df74fc26bfde; PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  'type' => 'sendsms',
+  '1576504254151' => '',
+)
+[ info ] [ RUN ] app\api\controller\Account->captcha[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-16T21:51:00+08:00 ] 127.0.0.1 POST 127.0.0.1/heimamm/public/sendsms
+[运行时间：0.923154s] [吞吐率：1.08req/s] [内存消耗：2,750.70kb] [文件加载：59]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'sendsms',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'content-length' => '37',
+  'accept' => 'application/json, text/plain, */*',
+  'origin' => 'http://localhost:8080',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'content-type' => 'application/json;charset=UTF-8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'cors',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'token=5df74fc26bfde; PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  'phone' => '18536565666',
+  'code' => '9544',
+)
+[ info ] [ RUN ] app\api\controller\Account->sendSms[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.221107s ] mysql:host=127.0.0.1;dbname=heimamm;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `heima_user` [ RunTime:0.237496s ]
+[ sql ] [ SQL ] SELECT * FROM `heima_user` WHERE  `phone` = '18536565666' LIMIT 1 [ RunTime:0.033357s ]
+---------------------------------------------------------------
+[ 2019-12-16T21:51:58+08:00 ] 127.0.0.1 GET 127.0.0.1/heimamm/public/captcha?type=login
+[运行时间：0.090185s] [吞吐率：11.09req/s] [内存消耗：1,942.05kb] [文件加载：51]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'no-cors',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'token=5df74fc26bfde; PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  'type' => 'login',
+)
+[ info ] [ RUN ] app\api\controller\Account->captcha[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-16T21:51:58+08:00 ] 127.0.0.1 GET 127.0.0.1/heimamm/public/captcha?type=sendsms
+[运行时间：0.071942s] [吞吐率：13.90req/s] [内存消耗：1,942.55kb] [文件加载：51]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'no-cors',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'token=5df74fc26bfde; PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  'type' => 'sendsms',
+)
+[ info ] [ RUN ] app\api\controller\Account->captcha[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-16T21:52:16+08:00 ] 127.0.0.1 POST 127.0.0.1/heimamm/public/uploads
+[运行时间：0.132619s] [吞吐率：7.54req/s] [内存消耗：1,954.98kb] [文件加载：52]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'uploads',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'content-length' => '4046',
+  'origin' => 'http://localhost:8080',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'content-type' => 'multipart/form-data; boundary=----WebKitFormBoundarySevzvHn6kpn6nMIe',
+  'accept' => '*/*',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'cors',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\api\controller\Account->uploads[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-16T21:53:19+08:00 ] 127.0.0.1 POST 127.0.0.1/heimamm/public/sendsms
+[运行时间：0.168850s] [吞吐率：5.92req/s] [内存消耗：2,750.70kb] [文件加载：59]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'sendsms',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'content-length' => '37',
+  'accept' => 'application/json, text/plain, */*',
+  'origin' => 'http://localhost:8080',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'content-type' => 'application/json;charset=UTF-8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'cors',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'token=5df74fc26bfde; PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  'phone' => '15738232011',
+  'code' => '3765',
+)
+[ info ] [ RUN ] app\api\controller\Account->sendSms[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000975s ] mysql:host=127.0.0.1;dbname=heimamm;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `heima_user` [ RunTime:0.021121s ]
+[ sql ] [ SQL ] SELECT * FROM `heima_user` WHERE  `phone` = '15738232011' LIMIT 1 [ RunTime:0.000602s ]
+---------------------------------------------------------------
+[ 2019-12-16T21:55:17+08:00 ] 127.0.0.1 GET 127.0.0.1/heimamm/public/captcha?type=login
+[运行时间：0.046820s] [吞吐率：21.36req/s] [内存消耗：1,942.02kb] [文件加载：51]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'no-cors',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'token=5df74fc26bfde; PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  'type' => 'login',
+)
+[ info ] [ RUN ] app\api\controller\Account->captcha[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-16T21:55:20+08:00 ] 127.0.0.1 GET 127.0.0.1/heimamm/public/captcha?type=login
+[运行时间：0.131054s] [吞吐率：7.63req/s] [内存消耗：1,942.04kb] [文件加载：51]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'no-cors',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'token=5df74fc26bfde; PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  'type' => 'login',
+)
+[ info ] [ RUN ] app\api\controller\Account->captcha[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-16T21:55:21+08:00 ] 127.0.0.1 GET 127.0.0.1/heimamm/public/captcha?type=sendsms
+[运行时间：0.058953s] [吞吐率：16.96req/s] [内存消耗：1,942.51kb] [文件加载：51]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'no-cors',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'token=5df74fc26bfde; PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  'type' => 'sendsms',
+)
+[ info ] [ RUN ] app\api\controller\Account->captcha[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-16T21:55:25+08:00 ] 127.0.0.1 POST 127.0.0.1/heimamm/public/uploads
+[运行时间：0.086057s] [吞吐率：11.62req/s] [内存消耗：1,954.96kb] [文件加载：52]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'uploads',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'content-length' => '812',
+  'origin' => 'http://localhost:8080',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'content-type' => 'multipart/form-data; boundary=----WebKitFormBoundaryPwAmk0AVIhlsbF9w',
+  'accept' => '*/*',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'cors',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\api\controller\Account->uploads[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-12-16T21:55:49+08:00 ] 127.0.0.1 POST 127.0.0.1/heimamm/public/sendsms
+[运行时间：0.649100s] [吞吐率：1.54req/s] [内存消耗：2,750.70kb] [文件加载：59]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\heimamm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'account',
+    2 => 'sendsms',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'content-length' => '37',
+  'accept' => 'application/json, text/plain, */*',
+  'origin' => 'http://localhost:8080',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36',
+  'content-type' => 'application/json;charset=UTF-8',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'cors',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'token=5df74fc26bfde; PHPSESSID=rr7qjd4kegd2bq4h1mrrvsset1',
+)
+[ info ] [ PARAM ] array (
+  'phone' => '15738232011',
+  'code' => '6488',
+)
+[ info ] [ RUN ] app\api\controller\Account->sendSms[ D:\phpStudy\PHPTutorial\WWW\heimamm\application\api\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002049s ] mysql:host=127.0.0.1;dbname=heimamm;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `heima_user` [ RunTime:0.058909s ]
+[ sql ] [ SQL ] SELECT * FROM `heima_user` WHERE  `phone` = '15738232011' LIMIT 1 [ RunTime:0.000775s ]
